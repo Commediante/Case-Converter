@@ -1,0 +1,31 @@
+body {
+    font-family: Roboto sans-serif;
+}
+
+#title {
+    margin: auto;
+    color: #001d3dff;
+    font-size: 300%;
+}
+
+textarea {
+    margin: auto;
+    width: 600px;
+    height: 250px;
+}
+
+button {
+    padding: 1rem;
+    background-color: #000814ff;
+    color: #ffd60aff;
+
+}
+
+/* CSS HEX */
+/*
+--rich-black-fogra-29: #000814ff;
+--oxford-blue: #001d3dff;
+--prussian-blue: #003566ff;
+--mikado-yellow: #ffc300ff;
+--gold-web-golden: #ffd60aff;
+*/
